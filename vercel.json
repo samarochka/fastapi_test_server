@@ -1,0 +1,5 @@
+{
+  "routes": [
+    {"src": "/(.*)", "dest": "fastapi_test_server/__init__.py"}
+  ]
+}
